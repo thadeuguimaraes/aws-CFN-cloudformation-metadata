@@ -1,6 +1,6 @@
-# Pojeto AWS Cloudformation CFN METADATA
+# Projeto AWS Cloudformation CFN METADATA
 
- Nesse projeto foi usado o Desinger,Interface graica Init cloudformation no console da AWS
+ Nesse projeto foi usado o Desinger,Interface gráfica, Init cloudformation no console da AWS
  para criar instâncias EC2 mudar o formato YML para JSON ou vice versa.
 
 Metadata
